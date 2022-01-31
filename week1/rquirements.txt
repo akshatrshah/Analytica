@@ -1,0 +1,16 @@
+certifi==2021.10.8
+charset-normalizer==2.0.10
+idna==3.3
+pytz==2021.3
+requests==2.27.1
+urllib3==1.26.8
+jupyter-client==6.1.12
+jupyter-core==4.7.1
+jupyter-server==1.9.0
+jupyterlab==3.0.16
+jupyterlab-pygments==0.1.2
+jupyterlab-server==2.6.1
+numpy==1.20.3
+pip==21.2.2
+pandas==1.2.4
+fastapi==0.72.0
